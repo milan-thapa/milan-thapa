@@ -2,8 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=milan-thapa&style=flat-square&color=58A6FF&label=profile+views&abbreviated=true" alt="Profile Views" />
 </p>
 
-<br />
-<br />
+
 
 <div align="center">
 
