@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0d2847,100:0d1117&height=160&section=header&text=Milan%20Thapa&fontSize=52&fontColor=ffffff&fontAlignY=52&animation=fadeIn&desc=Frontend%20Developer&descSize=16&descColor=58A6FF&descAlignY=75" width="100%" />
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=milan-thapa&style=flat-square&color=58A6FF&label=profile+views&abbreviated=true" alt="Profile Views" />
 </p>
