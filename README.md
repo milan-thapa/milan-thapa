@@ -17,8 +17,7 @@
 
 | | |
 |:---:|:---|
-| 🔭 &nbsp;**Building** | [**Inventra**](https://github.com/milan-thapa/Inventra) — smart business management (sales, expenses, inventory) |
-| 🌱 &nbsp;**Learning** | Next.js 15 · Server Actions · AI Integration |
+
 | 💼 &nbsp;**Status** | Open to opportunities |
 | 📍 &nbsp;**Location** | Kathmandu, Nepal |
 | 🌐 &nbsp;**Website** | [milanthapa1.com.np](https://www.milanthapa1.com.np/) |
