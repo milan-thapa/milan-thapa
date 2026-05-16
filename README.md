@@ -15,12 +15,7 @@
 
 <br />
 
-| | |
 
-
-| 💼 &nbsp;**Status** | Open to opportunities |
-| 📍 &nbsp;**Location** | Kathmandu, Nepal |
-| 🌐 &nbsp;**Website** | [milanthapa1.com.np](https://www.milanthapa1.com.np/) |
 
 </div>
 
