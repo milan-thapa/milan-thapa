@@ -16,7 +16,7 @@
 <br />
 
 | | |
-|:---:|:---|
+
 
 | 💼 &nbsp;**Status** | Open to opportunities |
 | 📍 &nbsp;**Location** | Kathmandu, Nepal |
