@@ -10,8 +10,8 @@
 
 <br />
 
-*Building fast, responsive web applications using React and Next.js,*<br />
-*with a focus on clean architecture and real-world usability.*
+*Crafting fast, responsive, and scalable web applications with React and Next.js,*<br />
+*focused on clean architecture, seamless user experiences, and real-world impact.*
 
 <br />
 
